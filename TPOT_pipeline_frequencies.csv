@@ -1,0 +1,16 @@
+,count
+LGBMClassifier,17
+AdaBoostClassifier,14
+RandomForestClassifier,10
+BernoulliNB,7
+ExtraTreesClassifier,7
+SGDClassifier,6
+GaussianNB,6
+BaggingClassifier,6
+LogisticRegression,6
+LinearDiscriminantAnalysis,6
+KNeighborsClassifier,5
+QuadraticDiscriminantAnalysis,4
+MLPClassifier,3
+DecisionTreeClassifier,2
+XGBClassifier,1
